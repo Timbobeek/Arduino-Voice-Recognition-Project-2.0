@@ -9,4 +9,10 @@ In my case, I use a 3.3v pin on Arduino Nano.
 
 Motors simultaneously move on commands "Start" and "Stop".
 
+Here is the demo:
+
+
+
+
+https://user-images.githubusercontent.com/68671029/206329240-34e25028-4a10-4dcb-ae65-86bc5390fa9b.mp4
 
