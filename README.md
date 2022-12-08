@@ -4,6 +4,9 @@ Multiple motors + Arduino Nano + Speech Recognizer
 
 Here, I want multiple motors move simultaneously on a specific voice command.
 
-!!! currently needs a different power source, stronger than the one on Nano (5v) !!!
+Needs a separate power source, such a batterly holder with max 6v power, that solely powers motors. Sppech Recognizer MUST BE powered from a separate source.
+In my case, I use a 3.3v pin on Arduino Nano.
 
-Could try different commands for different motors as well.
+Motors simultaneously move on commands "Start" and "Stop".
+
+
